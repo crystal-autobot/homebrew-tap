@@ -7,7 +7,7 @@ class Autobot < Formula
   on_macos do
     on_arm do
       url "https://github.com/crystal-autobot/autobot/releases/download/v0.1.0/autobot-darwin-arm64.tar.gz"
-      sha256 "4883bd4cd1a5bd3a8fe0a0468c0847d730a69854105559ea12f0a5daa9823b9c"
+      sha256 "c74a6e224ace105097a3e4ab465a9243451c30208ccea62b48bdac99808aa87a"
     end
 
     on_intel do

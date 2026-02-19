@@ -1,13 +1,13 @@
 class Autobot < Formula
   desc "Ultra-efficient personal AI assistant powered by Crystal"
   homepage "https://github.com/crystal-autobot/autobot"
-  version "0.2.0"
+  version "0.2.1"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/crystal-autobot/autobot/releases/download/v0.2.0/autobot-darwin-arm64.tar.gz"
-      sha256 "8f540bf007553a4381495187b4d4038217096537544bdbf2c06b239616ac6d15"
+      url "https://github.com/crystal-autobot/autobot/releases/download/v0.2.1/autobot-darwin-arm64.tar.gz"
+      sha256 "c598b456584b813ead087961a5208ea37996c521980f2339a254461a763dd510"
     end
 
     on_intel do
